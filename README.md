@@ -1,5 +1,4 @@
 - 👋 Hi, I’m sebiflorinp
-- 👀 I’m interested in Devil May Cry and Touhou Project
 - 🌱 I’m currently learning C++ programming language
 - 📫 How to reach me sebiflorinp#1863
 
