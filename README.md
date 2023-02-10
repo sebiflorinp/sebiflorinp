@@ -1,7 +1,7 @@
 # Hi! ( ･ω･)ﾉ
 I am:
 - Sebastian (a.k.a sebiflorinp)
-- Interested in web development
+- interested in web development
 - a CS student at the moment (hopefully a web developer in the near future).
 ## Technologies I use（✧ω✧）
 
