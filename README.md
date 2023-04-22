@@ -6,7 +6,7 @@ I am:
 ## Technologies I use（✧ω✧）
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" />
 
 ## Where you can find me (^▽^)
 
