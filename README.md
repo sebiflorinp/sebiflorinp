@@ -1,7 +1,9 @@
 <h1 align="center">Hi! (^o^)/</h1>
 
-* #### I am Sebastian.
-* #### I study CS at Babeș-Bolyai University.
+ * I am Sebastian.
+  * I go by sebiflorinp or sebifp online.
+  * I study Computer Science at Babeș-Bolyai University.
+ 
 
 <h1 align="center">Technologies I am learning（✧ω✧)</h1>
 <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="75" /><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="75" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="75" /></p>
