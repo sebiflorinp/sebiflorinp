@@ -6,7 +6,7 @@
  
 
 <h1 align="center">Technologies I am learning（✧ω✧)</h1>
-<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="75" /><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="75" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="75" /></p>
+<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="75" />
 <h1 align="center">Where you can find me (づ ◕‿◕ )づ</h1>
 
 
