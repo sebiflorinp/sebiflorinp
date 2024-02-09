@@ -8,7 +8,7 @@
 <h1 align="center">Technologies I am learning（✧ω✧)</h1>
 <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="75" /> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="75" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="75" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="75" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="75" />
 </p>
