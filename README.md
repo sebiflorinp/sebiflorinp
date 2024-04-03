@@ -3,8 +3,7 @@
 ### 💫 About Me
 
 * I’m currently working on [Clear Careers](https://github.com/sebiflorinp/Clear-Careers)<br><br>
-* I’m currently learning **Vue, Django-Rest-Framework, Tailwindcss**<br><br>
-* Currently interested in **Dart, Flutter**<br><br>
+* I’m currently learning **Vue, Java, Tailwindcss**<br><br>
 * How to reach me **sebastian.pahomi@gmail.com**
 
 
