@@ -12,10 +12,10 @@
 
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,postgres)]()
 
 ### Frameworks, Tools & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=git,react,redux,tailwind,supabase,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=git,react,redux,tailwind,supabase,spring)]()
 
 ### I have also used in the past:
 [![My Skills](https://skillicons.dev/icons?i=vue,django,firebase)]()
